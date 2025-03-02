@@ -13,7 +13,6 @@
 🤝 **Open to collaborating on:** Laravel & React projects  
 
 ### 🔥 Let's Build Something Amazing!  
-💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
 ### 🔧 Tech Stack & Skills  
 <p align="center">
