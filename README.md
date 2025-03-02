@@ -12,8 +12,6 @@
 🧠 **Learning:** Laravel Reverb  
 🤝 **Open to collaborating on:** Laravel & React projects  
 
-### 🔥 Let's Build Something Amazing!  
-
 ### 🔧 Tech Stack & Skills  
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
