@@ -8,8 +8,7 @@
 
 ### 🌍 Where You Can Find Me  
 📍 **Based in:** Somalia • ✉️ **Email:** [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)  
-🚀 **Currently working on:** AI-powered applications •
-🧠 **Learning:** Laravel Reverb  
+🚀 **Currently working on:** AI-powered applications •  
 🤝 **Open to collaborating on:** Laravel & React projects  
 
 ### 🔧 Tech Stack & Skills  
