@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hussein 🚀</h1>  
-<p align="center"><b>Software Developer | Laravel Enthusiast | React & TypeScript Expert</b></p>  
+<p align="center"><b>Software Developer | AI Enthusiast | Laravel, React & TypeScript Expert</b></p>  
 
 ### 🛠 About Me  
 💻 **Software Developer** specializing in **Laravel, React, Inertia.js, and TypeScript**.  
