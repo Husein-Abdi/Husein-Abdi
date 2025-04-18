@@ -23,8 +23,10 @@
 ### 🔧 Tech Stack & Skills 
 <p align="center">
   <!-- AI/ML -->
-<img src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-%2300758F.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />  
+<p align="center">
+  🤖 <img src="https://img.shields.io/badge/Custom_AI_Agents-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
