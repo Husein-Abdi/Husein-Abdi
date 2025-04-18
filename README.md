@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hussein 🚀</h1>  
+<h1 align="center">Hi, I'm Hussein </h1>  
 <p align="center"><b>Software Engineer | AI Developer | Cloud Infrastructure Specialist</b></p>  
 
 ### 🛠 About Me  
