@@ -48,7 +48,7 @@
 </p>
 
 ### 🚀 Recent Projects
-- Built AI-powered customer service agent handling 5k+ daily queries
-- Designed PostgreSQL cluster handling 1M+ transactions daily
+- Built AI-powered customer service agent handling 500+ daily queries
+- Designed PostgreSQL cluster handling 3k+ transactions daily
 - Migrated enterprise infrastructure to DigitalOcean with Cloudflare security
 - Developed Laravel Forge-based deployment system reducing CI/CD time by 40%
