@@ -16,7 +16,7 @@
 
 ### 🌍 Where You Can Find Me  
 📍 **Based in:** Somalia • ✉️ **Email:** [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)  
-🚀 **Currently building:** Next-gen business AI agents •  
+🚀 **Currently building:** Next-gen business AI agents 
 🧠 **Mastering:** Real-time systems with Laravel Reverb  
 🤝 **Open to:** AI integration projects & performance-critical web applications
 
