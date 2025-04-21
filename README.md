@@ -7,7 +7,7 @@
 ☁️ **Cloud infrastructure expert** focused on scalable, secure deployments  
 📊 **Database architect** crafting optimized data solutions for enterprise applications  
 
-### 🌟 Core Expertise
+### Core Expertise
 - **AI Development**: Custom LLM agents, AI-powered workflows, intelligent automation
 - **Backend Systems**: Laravel, Node.js, REST/GraphQL APIs, Microservices
 - **Cloud Infrastructure**: DigitalOcean, Cloudflare, Laravel Forge, Server Maintenance
