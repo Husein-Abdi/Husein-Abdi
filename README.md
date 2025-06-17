@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hussein</h1>
-<p align="center"><b>Software Engineer · Infrastructure & Deployment</b></p>
+<p align="center"><b>Software Engineer · Cloud Infrastructure Specialist · Deployment Pipelines</b></p>
 
 ---
 
