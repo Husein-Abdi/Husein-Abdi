@@ -24,7 +24,7 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ### 🚀 Things I’ve Built Recently
 
-- Built a **SaaS platform** to streamline clinic and pharmacy operations — designed for healthcare providers across Somalia   
+- Built [**IleysPlus**](https://ileysplus.com/) — a SaaS platform for streamlining clinic and pharmacy operations, tailored for healthcare providers across Somalia  
 - Migrated apps to Dockerized environments with DigitalOcean and Cloudflare  
 - Set up CI/CD pipelines with Laravel Forge for faster deployments
 
