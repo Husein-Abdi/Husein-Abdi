@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hussein</h1>
-<p align="center"><b>Software Engineer | Web Developer | Cloud Infrastructure</b></p>
+<p align="center"><b>Full-Stack Engineer · Laravel & React · Scalable Web Systems</b></p>
 
 ---
 
