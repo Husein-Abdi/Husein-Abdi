@@ -24,10 +24,9 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ### 🚀 Things I’ve Built Recently
 
-- A full-featured CRM system with access control and real-time updates  
-- A billing system powered by PostgreSQL, optimized for thousands of transactions  
+- Built a **SaaS platform** to streamline clinic and pharmacy operations — designed for healthcare providers across Somalia   
 - Migrated apps to Dockerized environments with DigitalOcean and Cloudflare  
-- Set up CI/CD pipelines with Laravel Forge for faster deployments  
+- Set up CI/CD pipelines with Laravel Forge for faster deployments
 
 ---
 
