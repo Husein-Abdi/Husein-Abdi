@@ -32,7 +32,6 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ### 📫 Contact
 
-- **Location**: Somalia  
 - **Email**: [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)  
 - **Currently focused on**: Backend-heavy apps, internal tools, and real-time systems  
 - **Open to**: Projects, collaborations, and freelance work  
