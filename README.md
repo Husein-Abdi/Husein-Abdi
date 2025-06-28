@@ -38,7 +38,7 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ---
 
-### 🛠️ What i use to build something meaningfull
+### 🛠️ What i Use To Build Something Meaningfull
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
