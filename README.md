@@ -1,44 +1,45 @@
-<h1 align="center">Hi, I'm Hussein</h1>
-<p align="center"><b>Software Engineer · Cloud Infrastructure Specialist · Deployment Pipelines</b></p>
+<h1 align="center">Hi, I'm Hussein 👋</h1>
+<p align="center"><b>Full-Stack Engineer · Laravel & React Specialist · Cloud & DevOps Enthusiast</b></p>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-I'm a developer who enjoys building practical, scalable software.  
-I work mostly with Laravel and React, and I like keeping things clean, fast, and maintainable.
+I’m a **full-stack software engineer with 4 + years of experience**. I design and ship **scalable, maintainable, production-grade applications** across finance, health, and SaaS.  
+My core stack pairs **Laravel** on the backend with **React / Inertia.js / TypeScript** on the frontend, and I’m equally at home with **Node.js & Express** for event-driven services.
 
-I’m comfortable across the stack from crafting responsive UIs to deploying full-featured backend systems.  
-I handle performance, deployment, and infrastructure as a regular part of my workflow.
+I’ve delivered secure, high-performance systems, crafted responsive UIs, and optimized **MySQL / PostgreSQL** databases for sub-100 ms latencies. From architecture decisions to CI/CD automation, I own the full lifecycle—**Docker, Laravel Forge, DigitalOcean, and Cloudflare** keep my deployments reliable and fast.
 
----
-
-### 🧩 What I Work With
-
-- **Backend**: Laravel, PHP, Node.js, REST, GraphQL  
-- **Frontend**: React, Inertia.js, TypeScript, TailwindCSS  
-- **Databases**: MySQL, PostgreSQL — indexing, optimization, migrations  
-- **Cloud & DevOps**: DigitalOcean, Laravel Forge, Docker, Cloudflare, NGINX  
+I’m passionate about blending clean backend logic with **AI-powered features, real-time interactivity, and seamless UX**—whether for multi-tenant SaaS, internal business tools, or service-oriented platforms.
 
 ---
 
-### 🚀 Things I’ve Built Recently
+### 🧩 Tech I Work With
 
-- Built [**IleysPlus**](https://goolsolutions.com/products/ileysplus/) — a SaaS platform for streamlining clinic and pharmacy operations, tailored for healthcare providers across Somalia  
-- Migrated apps to Dockerized environments with DigitalOcean and Cloudflare  
-- Set up CI/CD pipelines with Laravel Forge for faster deployments
+- **Backend**  |  Laravel · PHP · Node.js · Express · REST · GraphQL  
+- **Frontend**  |  React · Inertia.js · TypeScript · TailwindCSS  
+- **Databases** |  MySQL · PostgreSQL · Indexing · Query Optimization · Migrations  
+- **Cloud / DevOps** |  Docker · DigitalOcean · Laravel Forge · Cloudflare · NGINX · CI/CD
+
+---
+
+### 🚀 Recent Highlights
+
+- **IleysPlus** – Built a clinic & pharmacy SaaS used by healthcare providers across Somalia  
+- **Containerized Migrations** – Ported legacy apps to Docker + DigitalOcean, reducing deployment time 40 %  
+- **CI/CD Pipelines** – Automated testing and zero-downtime releases with Laravel Forge & GitHub Actions
 
 ---
 
 ### 📫 Contact
 
-- **Email**: [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)  
-- **Currently focused on**: Backend-heavy apps, internal tools, and real-time systems  
-- **Open to**: Projects, collaborations, and freelance work  
+- **Email** – <hussein.abdi.dev@gmail.com>  
+- **Focus** – Backend-heavy apps · Internal tools · Real-time systems  
+- **Open To** – Collaboration · Freelance · Challenging side projects
 
 ---
 
-### 🛠️ What i Use To Build Something Meaningfull
+### 🛠️ Toolbelt
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -57,4 +58,4 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ---
 
-Thanks for stopping by.
+Thanks for stopping by! 🚀
