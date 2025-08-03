@@ -13,15 +13,6 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ---
 
-### 🧩 What I Work With
-
-- **Backend**: Laravel, PHP, Node.js, REST, GraphQL  
-- **Frontend**: React, Inertia.js, TypeScript, TailwindCSS  
-- **Databases**: MySQL, PostgreSQL — indexing, optimization, migrations  
-- **Cloud & DevOps**: DigitalOcean, Laravel Forge, Docker, Cloudflare, NGINX  
-
----
-
 ### 🚀 Things I’ve Built Recently
 
 - Built [**IleysPlus**](https://goolsolutions.com/products/ileysplus/) — a SaaS platform for streamlining clinic and pharmacy operations, tailored for healthcare providers across Somalia  
@@ -38,8 +29,7 @@ I handle performance, deployment, and infrastructure as a regular part of my wor
 
 ---
 
-### 🛠️ What i Use To Build Something Meaningfull
-
+### 🧩 What I Work With
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
