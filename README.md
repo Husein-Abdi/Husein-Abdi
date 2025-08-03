@@ -8,7 +8,7 @@
 I'm a developer who enjoys building practical, scalable software.  
 I work mostly with Laravel and React, and I like keeping things clean, fast, and maintainable.
 
-I’m comfortable across the stack — from crafting responsive UIs to deploying full-featured backend systems.  
+I’m comfortable across the stack from crafting responsive UIs to deploying full-featured backend systems.  
 I handle performance, deployment, and infrastructure as a regular part of my workflow.
 
 ---
