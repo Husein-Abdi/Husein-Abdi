@@ -31,7 +31,7 @@ class HusseinAbdi extends SeniorDeveloper
         ];
     }
 
-    public function buildSolution($problem)
+    public function howIBuildSolutions($problem)
     {
         return $this->analyze($problem)
                    ->architect($solution)
