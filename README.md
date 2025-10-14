@@ -56,23 +56,23 @@ Healthcare • Property Management • Business Operations • Enterprise Soluti
 
 ```mermaid
 graph TD
-    A[🎯 Problem] --> B[💡 Solution Design]
-    B --> C[⚙️ Development]
-    C --> D[🚀 Deployment]
-    D --> E[📊 Scale & Growth]
+    A[🏥 Healthcare Challenges] --> D[💡 SaaS Solutions]
+    B[🏢 Business Problems] --> D
+    C[🏠 Property Management] --> D
     
-    F[💼 Business Needs] --> A
-    G[📝 Requirements] --> A
-    H[👥 User Feedback] --> A
-    
-    E --> I[✨ Success]
+    D --> E[✨ Live Products]
+    E --> F[🚀 Scaling Impact]
+    E --> G[👥 Happy Users]
+    E --> H[🌍 Growing Markets]
     
     style A fill:#EF4444,stroke:#DC2626,color:#fff
     style B fill:#F59E0B,stroke:#D97706,color:#fff
-    style C fill:#3B82F6,stroke:#1D4ED8,color:#fff
-    style D fill:#8B5CF6,stroke:#7C3AED,color:#fff
-    style E fill:#10B981,stroke:#065F46,color:#fff
-    style I fill:#EC4899,stroke:#BE185D,color:#fff,stroke-width:3px
+    style C fill:#8B5CF6,stroke:#7C3AED,color:#fff
+    style D fill:#3B82F6,stroke:#1D4ED8,color:#fff,stroke-width:3px
+    style E fill:#10B981,stroke:#065F46,color:#fff,stroke-width:3px
+    style F fill:#06B6D4,stroke:#0891B2,color:#fff
+    style G fill:#EC4899,stroke:#BE185D,color:#fff
+    style H fill:#8B5CF6,stroke:#7C3AED,color:#fff
 ```
 
 </div>
