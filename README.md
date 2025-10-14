@@ -52,6 +52,8 @@ class HusseinAbdi extends SeniorDeveloper implements Entrepreneur
 
 Healthcare • Property Management • Business Operations • Enterprise Solutions
 
+**[View My Products Portfolio →](https://goolsolutions.com/products)**
+
 ```mermaid
 graph TD
     A[🎯 Problem] --> B[💡 Solution Design]
