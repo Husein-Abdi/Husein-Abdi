@@ -48,9 +48,9 @@ class HusseinAbdi extends SeniorDeveloper
 
 | Industry | Platform Type | Status |
 |:--------:|:------------:|:------:|
-| 🏥 **Healthcare** | Management Systems | 🔴 Live |
-| 🏠 **Property** | Real Estate Solutions | 🔴 Live |
-| 📊 **Business** | Operations Suite | 🔴 Live |
+| 🏥 **Healthcare** | Management Systems | 🟢 Live |
+| 🏠 **Property** | Real Estate Solutions | 🟢 Live |
+| 📊 **Business** | Operations Suite | 🟢 Live |
 
 **4+ Live SaaS Platforms • Serving 10+ Businesses**
 
