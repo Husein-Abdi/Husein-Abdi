@@ -106,11 +106,7 @@ class HusseinAbdi extends SeniorDeveloper implements Entrepreneur
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Husein-Abdi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Husein-Abdi&theme=radical&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husein-Abdi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husein-Abdi&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
