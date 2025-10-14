@@ -36,7 +36,7 @@ class HusseinAbdi extends SeniorDeveloper
         return [
             'analyze' => 'Requirements & User Research',
             'architect' => 'System Design & Database Schema',
-            'develop' => 'Laravel Backend + React Frontend',
+            'develop' => 'Full-Stack Implementation & Testing',
             'deploy' => 'Docker + DigitalOcean + CI/CD',
             'scale' => 'Performance Optimization & Growth'
         ];
