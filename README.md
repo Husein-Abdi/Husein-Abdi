@@ -44,20 +44,13 @@ class HusseinAbdi extends SeniorDeveloper implements Entrepreneur
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🏥 Healthcare<br/>Systems] --> D[🌐 6+ Live<br/>SaaS Platforms]
-    B[🏠 Property<br/>Management] --> D
-    C[📊 Business<br/>Operations] --> D
-    
-    D --> E[🏢 Serving 10+<br/>Businesses]
-    
-    style A fill:#EF4444,stroke:#DC2626,color:#fff
-    style B fill:#8B5CF6,stroke:#7C3AED,color:#fff
-    style C fill:#F59E0B,stroke:#D97706,color:#fff
-    style D fill:#10B981,stroke:#065F46,color:#fff,stroke-width:3px
-    style E fill:#3B82F6,stroke:#1D4ED8,color:#fff,stroke-width:3px
-```
+| Industry | Platform Type | Status |
+|:--------:|:------------:|:------:|
+| 🏥 **Healthcare** | Management Systems | 🔴 Live |
+| 🏠 **Property** | Real Estate Solutions | 🔴 Live |
+| 📊 **Business** | Operations Suite | 🔴 Live |
+
+**6+ Live SaaS Platforms • Serving 10+ Businesses**
 
 **[Explore Portfolio →](https://goolsolutions.com/products)**
 
