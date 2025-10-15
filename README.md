@@ -72,7 +72,10 @@ class HusseinAbdi extends SeniorDeveloper
   
   🎯 **Interested in**: Technical leadership, product architecture, scaling challenges
   
+  🗓️ **Book a Discovery Call**: [cal.com/hussein-abdi/discovery-call](https://cal.com/hussein-abdi/discovery-call)
+  
 </div>
+
 
 ---
 
