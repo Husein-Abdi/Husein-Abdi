@@ -19,7 +19,7 @@ class HusseinAbdi extends SeniorDeveloper
     public function expertise(): array
     {
         return [
-            'backend' => ['Laravel', 'PHP', 'API Architecture', 'Microservices'],
+            'backend' => ['Laravel', 'PHP', 'NestJs', 'API Architecture', 'Microservices'],
             'frontend' => ['React', 'Next.js', 'TypeScript', 'Inertia.js'],
             'infrastructure' => ['Docker', 'DigitalOcean', 'Cloudflare', 'CI/CD'],
             'databases' => ['MySQL', 'PostgreSQL', 'Redis', 'Performance Optimization'],
