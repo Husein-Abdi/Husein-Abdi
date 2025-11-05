@@ -52,7 +52,7 @@ class HusseinAbdi extends SeniorDeveloper
 | 🏠 **Property** | Real Estate Solutions | 🟢 Live |
 | 📊 **Business** | Operations Suite | 🟢 Live |
 
-**4+ Live SaaS Platforms • Serving 10+ Businesses**
+**6+ Live SaaS Platforms • Serving 10+ Businesses**
 
 **[Explore Portfolio →](https://goolsolutions.com/products)**
 
