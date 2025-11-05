@@ -110,12 +110,6 @@ class HusseinAbdi extends SeniorDeveloper
 ---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Husein-Abdi&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
   <br><br>
   <i>✨ "Great software is built by great teams, but it starts with great individuals who care about their craft." ✨</i>
