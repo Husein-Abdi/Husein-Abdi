@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hussein Abdi
+# Hey, I'm Hussein 👋
 
 **Senior Full-Stack Developer • Team Lead • Product Builder**
 
