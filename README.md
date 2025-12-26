@@ -26,9 +26,9 @@ My approach combines **technical excellence** with **product thinking**. I lead 
 
 <div align="center">
 
-| 📦 Products Shipped | 👥 Teams Led | 🏢 Businesses Served | ⚡ Delivery Rate |
-|:------------------:|:------------:|:--------------------:|:---------------:|
-| **4+ SaaS** | **Multiple** | **10+** | **100%** |
+| 📦 Products Shipped | 👥 Teams Led | ⚡ Delivery Rate |
+|:------------------:|:------------:|:---------------:|
+| **4+ SaaS** | **Multiple** | **100%** |
 
 </div>
 
