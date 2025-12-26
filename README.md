@@ -52,11 +52,11 @@ My approach combines **technical excellence** with **product thinking**. I lead 
 
 ## How I Work
 
-```
-✓ Ship First          → Deliver working software, iterate fast
-✓ Team Success        → Empower developers, share knowledge
-✓ Solve Problems      → Focus on business outcomes, not just features
-```
+<div align="center">
+
+*Ship first. Empower teams. Solve real problems.*
+
+</div>
 
 ---
 
