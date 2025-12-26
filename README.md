@@ -1,116 +1,111 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007BFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Hussein+Abdi+%F0%9F%91%8B;Senior+Full-Stack+Developer+%F0%9F%9A%80;Tech+Entrepreneur+%26+Product+Builder+%F0%9F%92%A1;Laravel+Expert+%26+Cloud+Architect+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+# Hussein Abdi
+
+**Senior Full-Stack Developer • Team Lead • Product Builder**
+
+*I build products that ship. Every project I lead delivers successfully.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-goolsolutions.com-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://goolsolutions.com)
+[![Email](https://img.shields.io/badge/Email-hussein.abdi.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hussein.abdi.dev@gmail.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-Schedule-10B981?style=flat-square&logo=google-calendar&logoColor=white)](https://cal.com/hussein-abdi/discovery-call)
+
 </div>
 
 ---
 
+## About
+
+I'm a Senior Full-Stack Developer and Team Lead with a track record of delivering successful products. I don't just write code I build complete solutions that solve real business problems.
+
+My approach combines **technical excellence** with **product thinking**. I lead teams, architect systems, and ship software that businesses rely on every day.
+
+---
+
+## Impact
+
 <div align="center">
-  <h2>🎯 <b>Building the Future, One Line of Code at a Time</b></h2>
-  <p><i>Senior Full-Stack Developer | Tech Entrepreneur | Product Architect</i></p>
+
+| 📦 Products Shipped | 👥 Teams Led | 🏢 Businesses Served | ⚡ Delivery Rate |
+|:------------------:|:------------:|:--------------------:|:---------------:|
+| **4+ SaaS** | **Multiple** | **10+** | **100%** |
+
 </div>
 
-### 🔥 What I Do
+---
 
-```php
-<?php
+## Featured Work
 
-class HusseinAbdi extends SeniorDeveloper
-{
-    public function expertise(): array
-    {
-        return [
-            'backend' => ['Laravel', 'PHP', 'NestJs', 'API Architecture', 'Microservices'],
-            'frontend' => ['React', 'Next.js', 'TypeScript', 'Inertia.js'],
-            'infrastructure' => ['Docker', 'DigitalOcean', 'Cloudflare', 'CI/CD'],
-            'databases' => ['MySQL', 'PostgreSQL', 'Redis', 'Performance Optimization'],
-            'business' => ['Product Strategy', 'SaaS Development', 'Team Leadership']
-        ];
-    }
+<div align="center">
 
-    public function howIBuildSolutions(): array
-    {
-        return [
-            'analyze' => 'Requirements & User Research',
-            'architect' => 'System Design & Database Schema',
-            'develop' => 'Full-Stack Implementation & Testing',
-            'deploy' => 'Docker + DigitalOcean + CI/CD',
-            'scale' => 'Performance Optimization & Growth'
-        ];
-    }
-}
+| Project | Category | Stack |
+|:--------|:--------:|:------|
+| IleysPlus | Healthcare | Laravel • React • PostgreSQL |
+| SBMS | Supplements | Laravel • Inertia.js • MySQL |
+| e-nadifiye | Laundry | Laravel • TypeScript • Redis |
+
+**[View Portfolio →](https://goolsolutions.com/products)**
+
+</div>
+
+---
+
+## How I Work
+
+```
+✓ Ship First          → Deliver working software, iterate fast
+✓ Team Success        → Empower developers, share knowledge
+✓ Solve Problems      → Focus on business outcomes, not just features
 ```
 
 ---
 
-### 🚀 What I've Built
+## Tech Stack
 
 <div align="center">
 
-| Industry | Platform Type | Status |
-|:--------:|:------------:|:------:|
-| 🏥 **Healthcare** | Management Systems | 🟢 Live |
-| 🏠 **Property** | Real Estate Solutions | 🟢 Live |
-| 📊 **Business** | Operations Suite | 🟢 Live |
+**Backend & APIs**
 
-**6+ Live SaaS Platforms • Serving 10+ Businesses**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**[Explore Portfolio →](https://goolsolutions.com/products)**
+**Frontend**
 
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+**Infrastructure & DevOps**
 
-### 💼 Let's Build Something Amazing
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/Laravel_Forge-18BFA1?style=for-the-badge&logo=laravel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<div align="center">
-  
-  **🤝 Open for Strategic Partnerships**
-  
-  📧 **Business**: [hussein.abdi.dev@gmail.com](mailto:hussein.abdi.dev@gmail.com)
-  
-  💡 **Current Focus**: Building next-generation SaaS products
-  
-  🎯 **Interested in**: Technical leadership, product architecture, scaling challenges
-  
-  🗓️ **Book a Discovery Call**: [cal.com/hussein-abdi/discovery-call](https://cal.com/hussein-abdi/discovery-call)
-  
-</div>
+**Tools**
 
-
----
-
-<div align="center">
-  <h3>🛠️ <b>Tech Arsenal</b></h3>
-  <p><i>The tools and technologies I master to build exceptional products</i></p>
-</div>
-
-<div align="center">
-  
-#### Backend Expertise
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&color=FF6B6B" />
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&color=9B59B6" />
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=3498DB" />
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192&color=2980B9" />
-
-#### Frontend Mastery
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=00D2FF" />
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&color=2C3E50" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC&color=3498DB" />
-<img src="https://img.shields.io/badge/Inertia.js-%237A4F9A.svg?style=for-the-badge&logo=inertia&logoColor=white&labelColor=7A4F9A&color=A569BD" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=1ABC9C" />
-
-#### Cloud & DevOps
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=3498DB" />
-<img src="https://img.shields.io/badge/DigitalOcean-%230080ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=0080ff&color=74B9FF" />
-<img src="https://img.shields.io/badge/Laravel_Forge-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&color=FF6B6B" />
-<img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=F38020&color=FDCB6E" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Husein-Abdi&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  <i>✨ "Great software is built by great teams, but it starts with great individuals who care about their craft." ✨</i>
+
+**Let's build something great together.**
+
+[![Book a Discovery Call](https://img.shields.io/badge/Book_a_Discovery_Call-Schedule_Now-6366F1?style=for-the-badge)](https://cal.com/hussein-abdi/discovery-call)
+
 </div>
