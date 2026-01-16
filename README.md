@@ -38,15 +38,16 @@ My approach combines **technical excellence** with **product thinking**. I lead 
 
 <div align="center">
 
-| Project | Category | Stack |
-|:--------|:--------:|:------|
-| IleysPlus | Healthcare | Laravel • React • PostgreSQL |
-| SBMS | Supplements | Laravel • Inertia.js • MySQL |
-| e-nadifiye | Laundry | Laravel • TypeScript • Redis |
+| Project | Category |
+|:--------|:--------:|
+| IleysPlus | Healthcare |
+| SBMS | Supplements |
+| e-nadifiye | Laundry |
 
 **[View Portfolio →](https://goolsolutions.com/products)**
 
 </div>
+
 
 ---
 
